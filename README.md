@@ -1,4 +1,5 @@
-a95 is a window manager built on top of arcan, written in Fennel.
+a95 is a window manager built on top of [arcan](https://arcan-fe.com/about/),
+written in Fennel.
 Still experimental, use at your own risk :)
 
 How to launch?
